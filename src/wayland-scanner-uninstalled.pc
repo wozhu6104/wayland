@@ -1,0 +1,6 @@
+pkgdatadir=/home/zw/work/ubuntu/wayland-1.8.1
+wayland_scanner=/home/zw/work/ubuntu/wayland-1.8.1/src/wayland-scanner
+ 
+Name: Wayland Scanner
+Description: Wayland scanner (not installed)
+Version: 1.8.1
